@@ -33,10 +33,10 @@ ENDHELP`
 #Configuration - these options can be hard-coded or passed as parameters
 ###############
 # CF credentials - required
-cf_email=''
-cf_api_key=''
+cf_email='alickjoe@gmail.com'
+cf_api_key='677524fcbe59e5bf15707cb2242c14f9b3662'
 # Zone name - can be blank if zone_id is set
-zone_name=''
+zone_name='alickzhou.xyz'
 # Zone ID - if blank, will be looked up using zone_name
 zone_id='' # If blank, will be looked up
 # DNS record name  (e.g. domain.tld or subdomain.domain.tld)
